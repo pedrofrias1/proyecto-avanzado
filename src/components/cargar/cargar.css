@@ -1,0 +1,15 @@
+.boc{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 255, 0.674);
+    padding: 5px;
+    color: yellow;
+    font-weight: 600;
+}
+.cargado{
+    background-color: rgba(0, 128, 0, 0.58);
+    color: black;
+    font-weight: 600;
+    font-size: 1.6rem;
+}

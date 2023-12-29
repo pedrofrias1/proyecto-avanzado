@@ -1,0 +1,15 @@
+.boton{
+    background-color: blue;
+    border: solid 2px yellow;
+    border-radius: 8px;
+}
+.contenido{
+    width: 30vh;
+}
+
+.boton:hover{
+    background-color: yellow;
+    border: solid 2px blue;
+    color: black;
+}
+

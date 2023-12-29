@@ -1,0 +1,15 @@
+
+.pelota{
+    border-radius: 50%;
+    width: 200px;
+    height: 170px;
+    background-color: rgba(240, 248, 255, 0.687);
+    color: black;
+    text-align: center;
+}
+
+.plantel{
+    background-color: rgba(27, 27, 242, 0.779);
+    color: yellow;
+    font-size: 1.8rem;
+}

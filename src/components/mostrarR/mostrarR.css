@@ -1,0 +1,14 @@
+.botonR{
+    background-color: rgba(255, 0, 0, 0.671);
+    border: solid 2px white;
+    border-radius: 8px;
+}
+.contenido{
+    width: 30vh;
+}
+
+.botonR:hover{
+    background-color: white;
+    border: solid 2px rgba(255, 0, 0, 0.671);
+    color: black;
+}
